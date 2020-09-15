@@ -11,7 +11,7 @@ BuildDirectory: /home/vyalich/study/gl_1/build
 CostDataFile: 
 
 # Site is something like machine.domain, i.e. pragmatic.crd
-Site: vyalich-desktop
+Site: vyalich-X555LJ
 
 # Build name is osname-revision-compiler, i.e. Linux-2.4.2-2smp-c++
 BuildName: Linux-x86_64-linux-gnu-g++-9
